@@ -20,9 +20,7 @@
 
 ## Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahpaula)  
-[![GitHub followers](https://img.shields.io/github/followers/Sarahpaula?label=Follow&style=for-the-badge)](https://github.com/Sarahpaula)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahpaula&layout=compact&theme=dark)](https://github.com/Sarahpaula)  
-[![GitHub last commit](https://img.shields.io/github/last-commit/Sarahpaula/github-readme-stats?style=for-the-badge)](https://github.com/Sarahpaula)  
 
 Email: sarahpaulasil@gmail.com  
 
