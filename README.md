@@ -15,8 +15,8 @@
 - JavaScript  
 
 ## Projetos em destaque
-- [Portfólio Pessoal]([https://github.com/Sarahpaula/portfolio-pessoal](https://portifolio-2-rose.vercel.app/)) — Meu site pessoal com projetos e contato  
-- [Loja de Vendas Simples]([https://github.com/Sarahpaula/loja-vendas-simples](https://techstore-jet.vercel.app/)) — Projeto frontend  
+- [Portfólio Pessoal](https://portifolio-2-rose.vercel.app/) — Meu site pessoal com projetos e contato  
+- [Loja de Vendas Simples](https://techstore-jet.vercel.app/) — Projeto frontend  
 
 ## Como me encontrar
 - [LinkedIn](https://linkedin.com/in/sarahpaula)  
