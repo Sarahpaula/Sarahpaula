@@ -15,7 +15,7 @@
 - JavaScript  
 
 ## Projetos em destaque
-- [Portfólio Pessoal](https://portifolio-2-rose.vercel.app/) — Meu site pessoal com projetos e contato  
+- [Portfólio Pessoal](https://portfolio-sarahpaula.vercel.app/) — Meu site pessoal com projetos e contato  
 - [Loja de Vendas Simples](https://techstore-jet.vercel.app/) — Projeto frontend  
 
 ## Como me encontrar
